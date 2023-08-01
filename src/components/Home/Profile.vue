@@ -83,7 +83,7 @@
         return quotes[Math.floor(Math.random() * quotes.length)]
     })
 
-    // https://discord.com/users/704758931343278162
+    // https://discord.com/users/474239882877730837
     const links = [
         {
             href: 'mailto:yokanskeya@gmail.com',
