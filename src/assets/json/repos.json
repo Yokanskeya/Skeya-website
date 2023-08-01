@@ -1,27 +1,22 @@
 [
     {
-        "repo": "dotman",
-        "name": "Dotman",
-        "description": "A powerful dotfile manager for GNU/Linux. Written in Go"
+        "repo": "react-ts-express",
+        "name": "react-ts-express",
+        "description": "👾 Minimalistic hot reloaded Express + TS + React"
     },
     {
-        "repo": "brainsuck",
-        "name": "Brainsuck",
-        "description": "Toy programming language inspired by brainfuck. Written in Rust"
+        "repo": "Monitor",
+        "name": "Monitor",
+        "description": "💻 Community restock monitor template"
     },
     {
-        "repo": "AstroX",
-        "name": "AstroX",
-        "description": "Simple asteroids game made with C++ & Raylib"
+        "repo": "Residential",
+        "name": "Residential",
+        "description": "🏡 Sample professional and simple web designs for residential marketing"
     },
     {
-        "repo": "Rust-CHIP-8",
-        "name": "CHIP-8 in Rust",
-        "description": "⚡ BLAZING FAST ⚡ ⚠️ ☠️ Chip-8 virtual machine made with Rust"
-    },
-    {
-        "repo": "d3r1n-website",
-        "name": "This Site",
-        "description": "My portfolio site made with Vite, TypeScript, Vue3 and UnoCSS"
+        "repo": "SkeyaNime",
+        "name": "SkeyaNime",
+        "description": "✨ Image sharing platform and API for anime"
     }
 ]
