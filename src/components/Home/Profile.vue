@@ -64,7 +64,7 @@
 
     const randomQuote = computed(() => {
         const quotes = [
-            '0xDEADBEEF',
+            'Skeyaskuyyyyy !!!',
             '0xCAFEBABE',
             '127.1.0.1',
             'i like stoicism',
@@ -86,19 +86,19 @@
     // https://discord.com/users/704758931343278162
     const links = [
         {
-            href: 'mailto:contact@d3r1n.com',
+            href: 'mailto:yokanskeya@gmail.com',
             icon: defineAsyncComponent(() => import('@/assets/svg/AtSign.vue'))
         },
         {
-            href: 'https://linkedin.com/in/d3r1n',
+            href: 'https://linkedin.com/in/adam-khairusydan-b89464193',
             icon: defineAsyncComponent(() => import('@/assets/svg/LinkedIn.vue'))
         },
         {
-            href: 'https://github.com/d3r1n',
+            href: 'https://github.com/Yokanskeya',
             icon: defineAsyncComponent(() => import('@/assets/svg/GitHub.vue'))
         },
         {
-            href: 'https://discord.com/users/704758931343278162',
+            href: 'https://discord.com/users/474239882877730837',
             icon: defineAsyncComponent(() => import('@/assets/svg/Discord.vue'))
         }
     ]
