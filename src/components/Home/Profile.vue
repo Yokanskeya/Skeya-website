@@ -2,7 +2,7 @@
     <div class="profile sc-flex-center font-nunito flex-row flex-wrap-reverse gap-5 md:gap-10" v-if="user">
         <div class="profile-info flex-items-start flex-content-center flex w-auto flex-col gap-4">
             <span class="name font-roboto text-5xl font-bold tracking-wide text-slate-800 dark:text-neutral-100">
-                d3r1n
+                Skeya
             </span>
 
             <div class="presence sc-flex-center gap-3 text-lg">
