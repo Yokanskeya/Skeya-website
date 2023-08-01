@@ -21,8 +21,8 @@
     const show_ = ref(false)
 
     useHead({
-        titleTemplate: (title?: string) => (title ? `${title} | d3r1n.com` : 'd3r1n.com'),
-        link: [{ rel: 'icon', type: 'image/svg+xml', sizes: 'any', href: '/favicon.svg' }]
+        titleTemplate: (title?: string) => (title ? `${title} | skeya.tech` : 'skeya.tech'),
+        link: [{ rel: 'icon', type: 'image/png', sizes: 'any', href: '/favicon.png' }]
     })
 
     // watch effect
