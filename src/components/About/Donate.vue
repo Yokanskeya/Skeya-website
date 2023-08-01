@@ -6,7 +6,7 @@
                 towards my college tuition, I want to study Computer Science in USA or Canada.
             </p>
             <a
-                href="https://ko-fi.com/d3r1n"
+                href="https://ko-fi.com/Skeya"
                 target="_blank"
                 class="sc-flex-center rd-2 group w-full gap-2 border-2 border-solid border-blue-500 py-2 text-xl font-bold text-blue-500 no-underline transition-all duration-300 hover:scale-105 hover:bg-blue-500 hover:text-white active:scale-95"
             >
