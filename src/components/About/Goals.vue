@@ -10,7 +10,7 @@
                         >Done</span
                     >
                     <span class="text-base text-slate-700 dark:text-neutral-200"
-                        >Go to Canada with an International Exchange Program</span
+                        >Graduated college with a degree in informatics engineering</span
                     >
                 </div>
 
@@ -24,7 +24,7 @@
                         >Current</span
                     >
                     <span class="text-base text-slate-700 dark:text-neutral-200"
-                        >Win a collage in Canada or America</span
+                        >Working as front-end developer</span
                     >
                 </div>
 
@@ -38,7 +38,7 @@
                         >Next</span
                     >
                     <span class="text-base text-slate-700 dark:text-neutral-200"
-                        >Get a job as a developer in Canada or America</span
+                        >Get a job as a developer in USA or Japan</span
                     >
                 </div>
             </div>
