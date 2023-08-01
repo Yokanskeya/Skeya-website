@@ -3,7 +3,7 @@
         <template v-slot:content>
             <p class="font-nunito m-0 w-auto text-base leading-6 text-slate-700 dark:text-neutral-200">
                 If you like my work and want to support me, you can donate to me via Ko-Fi. Your donation will go
-                towards my college tuition, I want to study Computer Science in USA or Canada.
+                towards my college tuition, I want to study Computer Science in USA or Japan.
             </p>
             <a
                 href="https://ko-fi.com/Skeya"
