@@ -1,0 +1,19 @@
+html,
+body,
+#app {
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.light body {
+    background-color: #f8fafc;
+}
+
+.dark body {
+    background-color: #0a0a0a;
+}
+
+* {
+    box-sizing: border-box;
+}
