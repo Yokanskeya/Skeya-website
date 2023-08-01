@@ -73,7 +73,7 @@
             'i like stem',
             "gaslighting isn't real",
             '10x html developer',
-            'i like to play chess',
+            'FGO addicted',
             '💀',
             '👨‍💻',
             '👨‍🚀',
