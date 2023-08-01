@@ -21,7 +21,7 @@
     const show_ = ref(false)
 
     useHead({
-        titleTemplate: (title?: string) => (title ? `${title} | skeya.tech` : 'skeya.tech'),
+        titleTemplate: (title?: string) => (title ? `${title} | Skeya` : 'Skeya'),
         link: [{ rel: 'icon', type: 'image/png', sizes: 'any', href: '/favicon.png' }]
     })
 
