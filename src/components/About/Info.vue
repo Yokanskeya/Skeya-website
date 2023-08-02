@@ -6,6 +6,7 @@
         any topic but my favorites are sci-fi, psychology, history and self-improvement. Currently i'm doing develop my 
         <span class="font-bold">Discord bot</span>
         at
-        <Link href="https://mitybot.xyz/" label="Mity" class="mx-1" />.
+        <Link href="https://mitybot.xyz/" label="Mity" class="mx-1" />.<br>
+        Some technologies that I currently use : SCSS, JavaScript, TypeScript, Node.js, React.js, Vite.js, Vue.js, GSAP, Webpack.
     </Card>
 </template>
