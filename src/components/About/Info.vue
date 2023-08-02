@@ -7,6 +7,6 @@
         <span class="font-bold">Discord bot</span>
         at
         <Link href="https://mitybot.xyz/" label="Mity" class="mx-1" />.<br>
-        Some technologies that I currently use : SCSS, JavaScript, TypeScript, Node.js, React.js, Vite.js, Vue.js, GSAP, Webpack.
+        Some technologies that I currently use : JavaScript, TypeScript, Node.js, React.js, Vite.js, Vue.js, GSAP, Webpack, SCSS, UnoCSS.
     </Card>
 </template>
