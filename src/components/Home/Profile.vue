@@ -70,8 +70,6 @@
             'Im really sorry for myself',
             'I messed up everything',
             'It happens again',
-            'Sometimes i can do what i wanna do',
-            'But i cant get what i do'
             'Care for you silently',
             'It was what cant we do ?',
             'Vividly as i am now',
