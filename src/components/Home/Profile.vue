@@ -65,14 +65,17 @@
     const randomQuote = computed(() => {
         const quotes = [
             'Skeyaskuyyyyy !!!',
-            'progress must go on, even no one care if you dying',
-            'im really sorry for myself cuz i was messed up everything',
-            'it happens again',
-            'sometimes i can do what i wanna do but i cant get what i do',
-            'Care for you silently even if you dont need it because all of my days im still like as you know',
-            'the question wasnt what can we do, it was what cant we do ?',
-            "vividly as i am now",
-            'as time goes by',
+            'Progress must go on',
+            'Even no one care if you dying',
+            'Im really sorry for myself',
+            'I messed up everything',
+            'It happens again',
+            'Sometimes i can do what i wanna do',
+            'But i cant get what i do'
+            'Care for you silently',
+            'It was what cant we do ?',
+            'Vividly as i am now',
+            'As time goes by',
             'FGO addicted !!!',
         ]
         return quotes[Math.floor(Math.random() * quotes.length)]
