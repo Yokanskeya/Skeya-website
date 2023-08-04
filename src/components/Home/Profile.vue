@@ -64,7 +64,7 @@
 
     const randomQuote = computed(() => {
         const quotes = [
-            'Skeyaskuyyyyy !!!',
+            'もうしわけありません',
             'Progress must go on',
             'Even no one care if you dying',
             'Im really sorry for myself',
