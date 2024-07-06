@@ -21,7 +21,7 @@
     const show_ = ref(false)
 
     useHead({
-        titleTemplate: (title?: string) => (title ? `${title} | Naoki` : 'Naoki'),
+        titleTemplate: (title?: string) => (title ? `${title} | Mitsuya` : 'Mitsuya'),
         link: [{ rel: 'icon', type: 'image/png', sizes: 'any', href: '/favicon.png' }]
     })
 
